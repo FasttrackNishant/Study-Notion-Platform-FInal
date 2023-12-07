@@ -1,6 +1,6 @@
 # StudyNotion
 
-[URL] (https://study-notion-platform-f-inal.vercel.app/)
+[URL](https://study-notion-platform-f-inal.vercel.app/)
 StudyNotion is an ed-tech platform built on the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS), fostering a seamless learning experience.
 
 
